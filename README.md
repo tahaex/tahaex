@@ -151,13 +151,15 @@ Through **Netics**, my team and I help businesses:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahaex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tahaex&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaex&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
 ---
 
 ## Connect
+
+Click below to visit:
 
 [![Netics.fr](https://img.shields.io/badge/Netics.fr-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://netics.fr)
 [![NeticsLabs.com](https://img.shields.io/badge/NeticsLabs.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://neticslabs.com)

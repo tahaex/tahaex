@@ -151,20 +151,30 @@ Through **Netics**, my team and I help businesses:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahaex&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaex&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tahaex&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaex&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
 ---
 
 ## Connect
 
-Click below to visit:
+<div align="center">
+  <a href="https://netics.fr" target="_blank">
+    <img src="https://img.shields.io/badge/Netics.fr-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Netics.fr" />
+  </a>
+  <a href="https://neticslabs.com" target="_blank">
+    <img src="https://img.shields.io/badge/NeticsLabs.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="NeticsLabs.com" />
+  </a>
+  <a href="https://netics.ma" target="_blank">
+    <img src="https://img.shields.io/badge/Netics.ma-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Netics.ma" />
+  </a>
+  <a href="https://linkedin.com/in/taha-echakiri" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
-[![Netics.fr](https://img.shields.io/badge/Netics.fr-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://netics.fr)
-[![NeticsLabs.com](https://img.shields.io/badge/NeticsLabs.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://neticslabs.com)
-[![Netics.ma](https://img.shields.io/badge/Netics.ma-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://netics.ma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-echakiri)
+> *Note: Please use **Ctrl + Click** to open links in a new tab if GitHub blocks the automatic new window.*
 
 ---
 

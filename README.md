@@ -151,8 +151,8 @@ Through **Netics**, my team and I help businesses:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahaex&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaex&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://streak-stats.demolab.com?user=tahaex&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tahaex&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
 ---
